@@ -1,4 +1,4 @@
-# Olá, Eu me chamo Jean Lima!
+# Olá, eu me chamo Jean Lima!
 - 🏖️ Front-End
 - 🌾 Estudando TypeScript e React.js
 - 😄 Interesse em aprender Next.js, Node.js e Python
