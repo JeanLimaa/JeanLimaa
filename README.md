@@ -4,6 +4,8 @@
 - 😄 Interesse em aprender Next.js, Node.js e Python
 - 🔭 Gosto de Física, Astronomia e Computação
 - 👨‍💻 Cursando Ciências da Computação
+
+- Acesse meu <a href="jeanlimaa.github.io" target="_blank">portfolio!</a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
