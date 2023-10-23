@@ -5,7 +5,7 @@
 - 🔭 Gosto de Física, Astronomia e Computação;
 - 👨‍💻 Cursando Ciências da Computação;
 
-- Acesse meu <a href="https://jeanlimaa.github.io" target="_blank"><button target="_blank">portfolio!</button></a>
+- Acesse meu <a href="https://jeanlimaa.vercel.app" target="_blank"><button target="_blank">portfolio!</button></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
