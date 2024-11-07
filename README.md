@@ -1,7 +1,5 @@
 # Olá, eu me chamo Jean Lima!
-- 🏖️ Fullstack Javascript - com ênfase em Front-End;
-- 🌾 Foco de aprendizado atual: Node.js, MongoDB e PostgreSQL;
-- 😄 Interesse em aprender Java e Python;
+- 🏖️ Desenvolvedor Fullstack Javascript - com ênfase em Front-End;
 - 🔭 Gosto de Física, Astronomia e Computação;
 - 👨‍💻 Cursando Ciências da Computação;
 
